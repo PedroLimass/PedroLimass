@@ -1,6 +1,6 @@
 # Hi all, I'm Pedro 👋
 ## - 🎓Software Engineering student at Universidade of Brasília.
-## - 🍉I am a 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, Designer, lover of guitar and watermelon.
+## - 🍉I am a developer, Designer, lover of guitar and watermelon.
 
 <!--
 **PedroLimass/PedroLimass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
