@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi all, I'm Pedro 👋
+## 🎓 Software Engineering student at Universidade of Brasília.
 
 <!--
 **PedroLimass/PedroLimass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
