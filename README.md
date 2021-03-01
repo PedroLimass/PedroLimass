@@ -1,4 +1,4 @@
-wwwww# Hi all, I'm Pedro 👋
+# Hi all, I'm Pedro 👋
 
 ### 💻 &nbsp;About Me 
 - 🎓Studying Software Engineering at Universidade of Brasília.
