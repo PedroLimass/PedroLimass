@@ -33,6 +33,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroLimass&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-##📫Contact Me
+## 📫Contact Me
+- ![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white href="https://www.linkedin.com/in/pedro-lima-b2a2b81a7/")
 
 
