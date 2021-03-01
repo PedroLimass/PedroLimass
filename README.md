@@ -33,8 +33,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroLimass&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-## 📫Contact Me
 
+## 📫Contact Me
 <a href="https://www.linkedin.com/in/pedro-lima-b2a2b81a7/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://www.instagram.com/pedro_llimas/"><img alt="Instagram" src="https://img.shields.io/badge/pedro_llimas%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:phlimas@outlook.com"><img alt="Linkedin" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
