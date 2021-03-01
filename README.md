@@ -26,9 +26,6 @@
 ![AdobeXD](https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
-
-
-
 ## My Stats
 <p>
 <a href="https://github.com/AVS1508">
@@ -36,5 +33,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroLimass&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-<!--
+##📫Contact Me
+
 
